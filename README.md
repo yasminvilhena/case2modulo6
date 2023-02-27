@@ -1,5 +1,5 @@
 # Sobre o projeto
-No projeto de aula em grupo 2 foi preciso desenvolver um site que apresenta o App. No back-end deve ser feito utilizando Node, Express e SQLite, já no O front-end deve ser feito utilizando React e Bootstrap.
+No projeto de aula em grupo 2 foi preciso desenvolver um site que apresenta o App. No back-end  foi utilizando Node, Express e SQLite, já no front-end utilizamos React e Bootstrap.
 
  
 # Como executar?
