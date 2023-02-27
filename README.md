@@ -8,4 +8,4 @@ npm install
 
 npm start
 
-### Autores: Alvaro, Dayra justiniano, Fabiano Horta, Nicolas Mendes, Victor Alves e Yasmin Vilhena
+### Autores: Alvaro, Dayra justiniano, Fabiano Horta, Nicolas Mendes, Raquel Rabelo Victor Alves e Yasmin Vilhena
