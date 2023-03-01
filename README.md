@@ -18,11 +18,11 @@ Para executar o front-end basta abrir o terminal no Visual Studio Code, selecion
 2- Back-end
 Para executar o back-end basta abrir um novo terminal no Visual Studio Code, mantendo o terminal do React aberto e rodando o projeto. Execute os comandos abaixo para abrir o Server.
 
-- cd/back
+- cd back
 
 - npm install
 
-- cd/src
+- cd src
 
 - node server.js
 
@@ -39,12 +39,9 @@ Alvaro de Paula Santos
 
 Dayra Souza Justiniano
 
-Fabiano de Castro Horta Almeida
+fabiano almeida
 
-Nicolas Mendes Ferreira da Silva
+raquel rebelo
+vitor vaz
 
-Raquel Anastacio Rebelo
-
-Victor Alves Vaz
-
-Yasmin Cristiny Souza Vilhena
+yasmin vilhena
